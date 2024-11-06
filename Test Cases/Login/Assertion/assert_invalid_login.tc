@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>assert_invalid_login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b17fd50f-2eec-4bbc-93c7-dda2e1a40ddd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fbe9fc4f-ecaa-41bd-b6cd-91a823659f6c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Login failed! Please ensure the username and password are valid.'</defaultValue>
+      <description></description>
+      <id>fbe9fc4f-ecaa-41bd-b6cd-91a823659f6c</id>
+      <masked>false</masked>
+      <name>txtInvalidUser</name>
+   </variable>
+</TestCaseEntity>
